@@ -1,0 +1,18 @@
+@keyframes animateSvg {
+  to {
+    transform: translate(-50%, -10px);
+  }
+}
+
+@keyframes upandDown {
+  to {
+    transform: translateY(-5px);
+  }
+  
+}
+
+@keyframes rightArrow {
+  to {
+    transform: translateX(5px);
+  }
+}
